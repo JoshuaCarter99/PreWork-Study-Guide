@@ -6,9 +6,6 @@
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Features](#features)
-- [How To Contribute](#howtocontribute)
-- [Tests](#tests)
 
 ## Description
 
