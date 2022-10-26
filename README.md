@@ -18,15 +18,15 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-Project development and installation was not possible without VS (Visual Studio Code), Git Bash, and Git Hub. All three programs were used in simulataneous fashion. Git Bash and Git Hub were used to create the base of this project, while VS was used to flesh out the coding and fundamentals of the project so that it could look and turn out the way it did. Git Hub will be used for the deployment of this project as well.
+Project development and installation was not possible without VS (Visual Studio Code), Git Bash, and Git Hub. All three programs were used in simultaneous fashion. Git Bash and Git Hub were used to create the base of this project, while VS was used to flesh out the coding and fundamentals of the project so that it could look and turn out the way it did. Git Hub will be used for the deployment of this project as well.
 
 ## Usage
 
-Website
+Website is meant to show what programs/scripts went into the creation of the PreWork Study Guide and what function/role they played (with brief description). All components that add to the websites functionality can be found by entering "Inspect Element" (Ctrl + Shift + I) and navigating to the "Command" tab.
 
 ## Credits
 
-Credit for the creation of this project goes to to courses.bootcampspot.com
+Credit for the creation of this project goes to to courses.bootcampspot.com, github.com, the Git Bash program, and the VS (Visual Studio Code) program.
 
 ## License
 
@@ -52,14 +52,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Features
-
-If your project has a lot of features, list them here.
-
 ## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+(https://www.contributor-covenant.org/)
